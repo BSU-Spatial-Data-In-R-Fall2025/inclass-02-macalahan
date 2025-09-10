@@ -1,6 +1,10 @@
 ---
-title: "assignmentXX"
+title: "In-class Assignment 02"
 format: html
+author:
+  name: Morgan Calahan
+  affiliation: 
+    name: Boise State University
 ---
 
 # Your first Quarto Document
