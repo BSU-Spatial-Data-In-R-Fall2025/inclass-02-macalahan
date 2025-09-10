@@ -25,6 +25,13 @@ Insert a code chunk and have R calculate the sum of the month, day, and year you
 
 Save the document and commit your change.
 
+``` {r year_born}
+
+# add day, month, year of birthday
+sum(7+10+1997)
+
+```
+
 ## Render the document
 
 Assuming everything worked correctly you should now have a file named `inclass02.html`
